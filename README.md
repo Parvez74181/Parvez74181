@@ -104,6 +104,11 @@ Git • Docker • Figma • Postman • Vercel • Cloudflare • Hostinger
 
 ---
 
+<img width="880" height="192" alt="image" src="https://camo.githubusercontent.com/154e74646ac17b0286e754c538b39be2dfc5f5bf06dcd97aac1e143c64b5f8dc/68747470733a2f2f70726f66696c652d726561646d652d67656e657261746f722e636f6d2f6173736574732f736e616b652e737667" />
+
+
+---
+
 ## 🤖 Beyond Web Development
 
 I actively build **Arduino & robotics projects**, working with sensors, motors, and embedded systems — strengthening my debugging and real-world problem-solving skills.
