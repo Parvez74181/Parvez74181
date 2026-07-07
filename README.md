@@ -27,7 +27,7 @@ I specialize in **Next.js, Django, Node.js, TypeScript, PostgreSQL, and modern U
 ## 💼 Featured Projects
 
 ### 🎓 Education Management Platform  
-🔗 Live: https://academy.linearedu.com  
+🔗 Live: https://linearedu.com  
 
 - Role-based system (Admin, Teacher, Staff, Student)  
 - Academic workflows (courses, exams, attendance, results)  
